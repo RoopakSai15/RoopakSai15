@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="./media/790.jpg" >
+
 ## What are dey gonna do now?
 
 </div>
